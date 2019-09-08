@@ -1,0 +1,9 @@
+D:\LearnCodes\Window7\bin\Win7.Services.Files.dll
+D:\LearnCodes\Window7\bin\Win7.Services.Files.pdb
+D:\LearnCodes\C#\Win7.Services\Win7.Services.Files\obj\Debug\Win7.Services.Files.dll
+D:\LearnCodes\C#\Win7.Services\Win7.Services.Files\obj\Debug\Win7.Services.Files.pdb
+F:\代码\IISService\Binpool\Ehuanrum.Windows7\bin\Win7.Services.Files.dll
+F:\代码\IISService\Binpool\Ehuanrum.Windows7\bin\Win7.Services.Files.pdb
+F:\代码\Code--C# C++\C# Web\Win7.Services\Win7.Services.Files\obj\Debug\Win7.Services.Files.dll
+F:\代码\Code--C# C++\C# Web\Win7.Services\Win7.Services.Files\obj\Debug\Win7.Services.Files.pdb
+D:\LearnCodes\C#\Win7.Services\Win7.Services.Files\obj\Debug\Win7.Services.Files.csprojResolveAssemblyReference.cache

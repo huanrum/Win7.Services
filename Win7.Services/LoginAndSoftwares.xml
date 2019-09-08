@@ -1,0 +1,123 @@
+﻿<root>
+  <loginData>
+    <login name="-" password="336d5ebc5436534e61d16e63ddfca327" administrator="true">
+    </login>
+    <login name="ehuanrum" password="25d55ad283aa400af464c76d713c07ad" administrator="true">
+    </login>
+    <login name="seto.sun" password="25d55ad283aa400af464c76d713c07ad">
+    </login>
+    <login name="seto.sun.developer" password="25d55ad283aa400af464c76d713c07ad">
+      <software>Javascript</software>
+      <software>jQuery</software>
+      <software>css</software>
+    </login>
+  </loginData>
+  <softwares>
+    <DrawingCanvas>
+      <title>Drawing Canvas</title>
+      <icon>@path:../Icons/MSN.ico</icon>
+      <group>drawing</group>
+      <fnUrl>software/drawing/canvas/index.html</fnUrl>
+    </DrawingCanvas>
+    <DrawingD3>
+      <title>Drawing D3</title>
+      <icon>@path:../Icons/branding.ico</icon>
+      <group>drawing</group>
+      <fnUrl>software/drawing/d3/index.html</fnUrl>
+    </DrawingD3>
+    <Wave>
+      <title>Wave</title>
+      <icon>@path:../Icons/down/136.png</icon>
+      <fnUrl>software/math/show/index.html</fnUrl>
+    </Wave>
+    <Chess>
+      <title>Chess</title>
+      <icon>@path:../Icons/svgs/app/cost-groups.svg</icon>
+      <group>game</group>
+      <noCanMax>true</noCanMax>
+      <dialogSize>800,640</dialogSize>
+      <fnUrl>software/game/chess/index.html</fnUrl>
+    </Chess>
+    <GameTetris>
+      <title>Game Tetris</title>
+      <icon>@path:../Icons/games.png</icon>
+      <group>game</group>
+      <noCanMax>true</noCanMax>
+      <dialogSize>400,640</dialogSize>
+      <fnUrl>software/game/tetris/index.html</fnUrl>
+    </GameTetris>
+    <iTwoCloud>
+      <title>iTwo Cloud</title>
+      <icon>@path:../Icons/svgs/rib-logo.svg</icon>
+      <fnUrl>@open:https://rib-cn-dev480/Cloud5D/V1/Clients/</fnUrl>
+      <group>iTwo</group>
+    </iTwoCloud>
+    <iTwoCloudPrint>
+      <title>iTwo Cloud Print</title>
+      <icon>@path:../Icons/svgs/print.svg</icon>
+      <fnUrl>@open:https://rib-cn-dev480/Test/client.app/print-boq.html</fnUrl>
+      <group>iTwo</group>
+    </iTwoCloudPrint>
+    <CSharp>
+      <title>C#</title>
+      <icon>@path:../Icons/down/121.png</icon>
+      <fnUrl>software/cshap/base/index.html</fnUrl>
+    </CSharp>
+    <Javascript>
+      <title>Javascript</title>
+      <icon>@path:../Icons/down/128.png</icon>
+      <fnUrl>software/javascript/base/index.html</fnUrl>
+      <group>Javascript</group>
+    </Javascript>
+    <jQuery>
+      <title>jQuery</title>
+      <icon>@path:../Icons/down/159.png</icon>
+      <fnUrl>software/jquery/base/index.html</fnUrl>
+      <group>Javascript</group>
+    </jQuery>
+    <Angular>
+      <title>Angular</title>
+      <icon>@path:../Icons/down/132.png</icon>
+      <fnUrl>software/angular/base/index.html</fnUrl>
+      <group>Javascript</group>
+    </Angular>
+    <Bootstrap>
+      <title>Bootstrap</title>
+      <icon>@path:../Icons/down/11.png</icon>
+      <fnUrl>software/bootstrap/base/index.html</fnUrl>
+      <group>Javascript</group>
+    </Bootstrap>
+    <Ext>
+      <title>Ext</title>
+      <icon>@path:../Icons/down/0.png</icon>
+      <fnUrl>software/ext/base/index.html</fnUrl>
+      <group>Javascript</group>
+    </Ext>
+    <Ember>
+      <title>Ember</title>
+      <icon>@path:../Icons/down/146.png</icon>
+      <fnUrl>software/ember/base/index.html</fnUrl>
+      <group>Javascript</group>
+    </Ember>
+    <Backbone>
+      <title>Backbone</title>
+      <icon>@path:../Icons/down/147.png</icon>
+      <fnUrl>software/backbone/base/index.html</fnUrl>
+      <group>Javascript</group>
+    </Backbone>
+    <jQueryMobileWeb>
+      <title>jQuery Mobile Web</title>
+      <icon>@path:../Icons/down/56.png</icon>
+      <fnUrl>software/jquery.mobile/base/index.html</fnUrl>
+      <dialogSize>360,560</dialogSize>
+      <noCanMax>true</noCanMax>
+      <group>Javascript</group>
+    </jQueryMobileWeb>
+    <Css>
+      <title>CSS</title>
+      <icon>@path:../Icons/down/162.png</icon>
+      <fnUrl>software/css/base/index.html</fnUrl>
+      <dialogSize>1200,600</dialogSize>
+    </Css>
+  </softwares>
+</root>

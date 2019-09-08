@@ -1,0 +1,10 @@
+F:\代码\IISService\Binpool\Ehuanrum.Windows7\bin\Win7.Staff.dll
+F:\代码\IISService\Binpool\Ehuanrum.Windows7\bin\Win7.Staff.pdb
+F:\代码\Code--C# C++\C# Web\Win7.Services\Win7.Staff\obj\Debug\Win7.Staff.csprojResolveAssemblyReference.cache
+F:\代码\Code--C# C++\C# Web\Win7.Services\Win7.Staff\obj\Debug\Win7.Staff.dll
+F:\代码\Code--C# C++\C# Web\Win7.Services\Win7.Staff\obj\Debug\Win7.Staff.pdb
+D:\LearnCodes\Window7\bin\Win7.Staff.dll
+D:\LearnCodes\Window7\bin\Win7.Staff.pdb
+D:\LearnCodes\C#\Win7.Services\Win7.Staff\obj\Debug\Win7.Staff.csprojResolveAssemblyReference.cache
+D:\LearnCodes\C#\Win7.Services\Win7.Staff\obj\Debug\Win7.Staff.dll
+D:\LearnCodes\C#\Win7.Services\Win7.Staff\obj\Debug\Win7.Staff.pdb

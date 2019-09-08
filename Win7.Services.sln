@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Win7.Sqlite", "Win7.Sqlite\Win7.Sqlite.csproj", "{4D363FBB-594C-4A54-B889-67A13D71BB3A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Win7.Services", "Win7.Services\Win7.Services.csproj", "{15DB10B8-5104-4885-918B-3FA6ACA720A9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Win7.Services.Files", "Win7.Services.Files\Win7.Services.Files.csproj", "{4A433723-7AC9-4275-A7FF-AD227EE8B6C7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Win7.Accounting", "Win7.Accounting\Win7.Accounting.csproj", "{73182097-ED1A-4B2B-ABBD-ABFCD05B470F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Win7.Staff", "Win7.Staff\Win7.Staff.csproj", "{6A3C50E5-3253-4FE4-B9F8-E362A773799F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Win7.Icben", "Win7.Icben\Win7.Icben.csproj", "{08166C05-C6BA-48B6-8EC7-9DBCCDC2E694}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4D363FBB-594C-4A54-B889-67A13D71BB3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D363FBB-594C-4A54-B889-67A13D71BB3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D363FBB-594C-4A54-B889-67A13D71BB3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D363FBB-594C-4A54-B889-67A13D71BB3A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15DB10B8-5104-4885-918B-3FA6ACA720A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15DB10B8-5104-4885-918B-3FA6ACA720A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15DB10B8-5104-4885-918B-3FA6ACA720A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15DB10B8-5104-4885-918B-3FA6ACA720A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A433723-7AC9-4275-A7FF-AD227EE8B6C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A433723-7AC9-4275-A7FF-AD227EE8B6C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A433723-7AC9-4275-A7FF-AD227EE8B6C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A433723-7AC9-4275-A7FF-AD227EE8B6C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73182097-ED1A-4B2B-ABBD-ABFCD05B470F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73182097-ED1A-4B2B-ABBD-ABFCD05B470F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73182097-ED1A-4B2B-ABBD-ABFCD05B470F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73182097-ED1A-4B2B-ABBD-ABFCD05B470F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A3C50E5-3253-4FE4-B9F8-E362A773799F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A3C50E5-3253-4FE4-B9F8-E362A773799F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A3C50E5-3253-4FE4-B9F8-E362A773799F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A3C50E5-3253-4FE4-B9F8-E362A773799F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08166C05-C6BA-48B6-8EC7-9DBCCDC2E694}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08166C05-C6BA-48B6-8EC7-9DBCCDC2E694}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08166C05-C6BA-48B6-8EC7-9DBCCDC2E694}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08166C05-C6BA-48B6-8EC7-9DBCCDC2E694}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

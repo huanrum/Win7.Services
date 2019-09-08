@@ -1,0 +1,9 @@
+D:\LearnCodes\Window7\bin\Win7.Sqlite.dll
+D:\LearnCodes\Window7\bin\Win7.Sqlite.pdb
+D:\LearnCodes\C#\Win7.Services\Win7.Sqlite\obj\Debug\Win7.Sqlite.dll
+D:\LearnCodes\C#\Win7.Services\Win7.Sqlite\obj\Debug\Win7.Sqlite.pdb
+F:\代码\IISService\Binpool\Ehuanrum.Windows7\bin\Win7.Sqlite.dll
+F:\代码\IISService\Binpool\Ehuanrum.Windows7\bin\Win7.Sqlite.pdb
+F:\代码\Code--C# C++\C# Web\Win7.Services\Win7.Sqlite\obj\Debug\Win7.Sqlite.dll
+F:\代码\Code--C# C++\C# Web\Win7.Services\Win7.Sqlite\obj\Debug\Win7.Sqlite.pdb
+D:\LearnCodes\C#\Win7.Services\Win7.Sqlite\obj\Debug\Win7.Sqlite.csprojResolveAssemblyReference.cache
